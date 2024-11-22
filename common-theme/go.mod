@@ -1,3 +1,3 @@
 module github.com/Tim-Quattrochi/curriculum/common-theme
 
-go 1.21.3
+go 1.23.3

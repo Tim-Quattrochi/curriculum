@@ -1,0 +1,11 @@
+title = 'Light and Salt Learning'
+baseURL = 'https://example.org/'
+[module]
+[[module.imports]]
+path = "github.com/Tim-Quattrochi/curriculum/common-theme"
+[[module.imports]]
+path = "github.com/Tim-Quattrochi/curriculum/common-content" 
+[[module.imports.mounts]]
+source = "en"
+target = "content"
+
