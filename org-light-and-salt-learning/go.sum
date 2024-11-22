@@ -1,14 +1,4 @@
-github.com/CodeYourFuture/curriculum/common-content v0.0.0-20241121114806-d7b4d1ca135c h1:v8Cd4nionx+h4CxkqAjnOb3URSes27uuKX7IFgmFgfM=
-github.com/CodeYourFuture/curriculum/common-content v0.0.0-20241121114806-d7b4d1ca135c/go.mod h1:e3J+XphCBJJ8kf6S9ykVxNY1VKPWJoYuDFXEizlDpCI=
-github.com/CodeYourFuture/curriculum/common-theme v0.0.0-20241121114806-d7b4d1ca135c h1:N+q8uNpkoCMAP0ah4PgpRzphlXtPRALJxFN7qp+pRP4=
-github.com/CodeYourFuture/curriculum/common-theme v0.0.0-20241121114806-d7b4d1ca135c/go.mod h1:kzt+J4JYp5C3GD1dX0rf7vY5fsTUc6Drrn+7p7pjmLg=
-github.com/Tim-Quattrochi/curriculum/common-content v0.0.0-20241121233849-559f18b5b463 h1:QCtSjI6eMh4xuHPWHzI7E0zU5/dnAZ8j+diuIexVxE0=
-github.com/Tim-Quattrochi/curriculum/common-content v0.0.0-20241121233849-559f18b5b463/go.mod h1:QS6b5wHe7JFiNUjIJiezwBquQyr/bd6+DKAqiPXw3j8=
 github.com/Tim-Quattrochi/curriculum/common-content v0.0.0-20241122022405-a6f85e5ed011 h1:NGBsCkcbNOboBHMSCaqIxriKynkhTX05ebuAyGI7eBc=
 github.com/Tim-Quattrochi/curriculum/common-content v0.0.0-20241122022405-a6f85e5ed011/go.mod h1:QS6b5wHe7JFiNUjIJiezwBquQyr/bd6+DKAqiPXw3j8=
-github.com/Tim-Quattrochi/curriculum/common-theme v0.0.0-20241121233559-d50cc1328c21 h1:Up0Ce91SFThzVtgYZ0fsMk3KGtDtMzUWjQ/oIqxT5gA=
-github.com/Tim-Quattrochi/curriculum/common-theme v0.0.0-20241121233559-d50cc1328c21/go.mod h1:Ja4pabt1DKWMauMRMdbJaVqw9f2uTzt4vr5m7xksYHg=
-github.com/Tim-Quattrochi/curriculum/common-theme v0.0.0-20241121233849-559f18b5b463 h1:0haLReVXYpSxTTJL6S8gpJZgBsUrfEtBCzPBQ7myMDc=
-github.com/Tim-Quattrochi/curriculum/common-theme v0.0.0-20241121233849-559f18b5b463/go.mod h1:Ja4pabt1DKWMauMRMdbJaVqw9f2uTzt4vr5m7xksYHg=
 github.com/Tim-Quattrochi/curriculum/common-theme v0.0.0-20241122022405-a6f85e5ed011 h1:SpphBLXcfqrdodZGTtvTLMQqIyRjNaaTsn+c7S8pbdc=
 github.com/Tim-Quattrochi/curriculum/common-theme v0.0.0-20241122022405-a6f85e5ed011/go.mod h1:Ja4pabt1DKWMauMRMdbJaVqw9f2uTzt4vr5m7xksYHg=
